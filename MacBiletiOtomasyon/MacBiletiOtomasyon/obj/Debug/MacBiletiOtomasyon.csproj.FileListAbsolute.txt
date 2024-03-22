@@ -1,0 +1,106 @@
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\MacBiletiOtomasyon.exe.config
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\MacBiletiOtomasyon.exe
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\MacBiletiOtomasyon.pdb
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.csproj.AssemblyReference.cache
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.Properties.Resources.resources
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.csproj.GenerateResource.cache
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.exe
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.pdb
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.exe.licenses
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.csproj.CopyComplete
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.MacEkle.resources
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.AnaSayfa.resources
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.FiyatGuncelle.resources
+C:\Users\aydog\source\repos\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.BiletSatıislari.resources
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\MacBiletiOtomasyon.exe.config
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\MacBiletiOtomasyon.exe
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\MacBiletiOtomasyon.pdb
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.csproj.AssemblyReference.cache
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.BiletSatıislari.resources
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.FiyatGuncelle.resources
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.AnaSayfa.resources
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.MacEkle.resources
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.Properties.Resources.resources
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.csproj.GenerateResource.cache
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.exe.licenses
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.csproj.CopyComplete
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.exe
+C:\Users\aydog\Desktop\205541061 MacBiletiOtomasyonu_SetUp\MacBiletiOtomasyon\MacBiletiOtomasyon\obj\Debug\MacBiletiOtomasyon.pdb

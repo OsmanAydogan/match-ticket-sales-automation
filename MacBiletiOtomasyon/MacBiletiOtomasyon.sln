@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacBiletiOtomasyon", "MacBiletiOtomasyon\MacBiletiOtomasyon.csproj", "{B79F9A7A-F948-4E3A-B5BB-1242E29A05EB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MacOtomasyonu", "MacOtomasyonu\MacOtomasyonu.vdproj", "{C9DADB2D-9B67-4860-91B9-B9F5E449E57B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetUpMacBiletiOtomasyonu", "..\..\..\OneDrive\Masaüstü\DB\SetUpMacBiletiOtomasyonu\SetUpMacBiletiOtomasyonu.vdproj", "{1395DCA7-575B-4E2E-8870-5195EC997E05}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetUpMacBiletiOtomasyonuu", "..\..\..\OneDrive\Masaüstü\DB\SetUpMacBiletiOtomasyonuu\SetUpMacBiletiOtomasyonuu.vdproj", "{177A7719-C270-41A5-A660-91C27FA368FD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MacBiletiOtomasyonn", "..\..\..\OneDrive\Masaüstü\DB\MacBiletiOtomasyonn\MacBiletiOtomasyonn.vdproj", "{B5F32B06-45BB-466A-8E54-C30FB47F9E51}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MacBileti1", "..\..\..\OneDrive\Masaüstü\py\MacBileti1\MacBileti1.vdproj", "{19E09A2B-4690-4750-BB32-E9577C2B0E88}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MacBiletiOoto", "..\..\..\OneDrive\Masaüstü\py\MacBiletiOoto\MacBiletiOoto.vdproj", "{EDF9AC44-8336-4639-9B98-9F5AEEB47774}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OtoMasyon1", "OtoMasyon1\OtoMasyon1.vdproj", "{262F32D2-0B7B-4602-8782-F82BF084596F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Otomasyon2", "Otomasyon2\Otomasyon2.vdproj", "{04DE055F-6747-43CF-8918-06C51FD68E94}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MacBileti", "..\..\..\OneDrive\Masaüstü\py\MacBileti\MacBileti.vdproj", "{A89B3F3E-8BD1-4026-995B-954FE4E89630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B79F9A7A-F948-4E3A-B5BB-1242E29A05EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79F9A7A-F948-4E3A-B5BB-1242E29A05EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79F9A7A-F948-4E3A-B5BB-1242E29A05EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79F9A7A-F948-4E3A-B5BB-1242E29A05EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9DADB2D-9B67-4860-91B9-B9F5E449E57B}.Debug|Any CPU.ActiveCfg = Debug
+		{C9DADB2D-9B67-4860-91B9-B9F5E449E57B}.Release|Any CPU.ActiveCfg = Release
+		{1395DCA7-575B-4E2E-8870-5195EC997E05}.Debug|Any CPU.ActiveCfg = Debug
+		{1395DCA7-575B-4E2E-8870-5195EC997E05}.Release|Any CPU.ActiveCfg = Release
+		{177A7719-C270-41A5-A660-91C27FA368FD}.Debug|Any CPU.ActiveCfg = Debug
+		{177A7719-C270-41A5-A660-91C27FA368FD}.Release|Any CPU.ActiveCfg = Release
+		{B5F32B06-45BB-466A-8E54-C30FB47F9E51}.Debug|Any CPU.ActiveCfg = Debug
+		{B5F32B06-45BB-466A-8E54-C30FB47F9E51}.Release|Any CPU.ActiveCfg = Release
+		{19E09A2B-4690-4750-BB32-E9577C2B0E88}.Debug|Any CPU.ActiveCfg = Debug
+		{19E09A2B-4690-4750-BB32-E9577C2B0E88}.Release|Any CPU.ActiveCfg = Release
+		{EDF9AC44-8336-4639-9B98-9F5AEEB47774}.Debug|Any CPU.ActiveCfg = Debug
+		{EDF9AC44-8336-4639-9B98-9F5AEEB47774}.Release|Any CPU.ActiveCfg = Release
+		{262F32D2-0B7B-4602-8782-F82BF084596F}.Debug|Any CPU.ActiveCfg = Debug
+		{262F32D2-0B7B-4602-8782-F82BF084596F}.Release|Any CPU.ActiveCfg = Release
+		{04DE055F-6747-43CF-8918-06C51FD68E94}.Debug|Any CPU.ActiveCfg = Debug
+		{04DE055F-6747-43CF-8918-06C51FD68E94}.Release|Any CPU.ActiveCfg = Release
+		{A89B3F3E-8BD1-4026-995B-954FE4E89630}.Debug|Any CPU.ActiveCfg = Debug
+		{A89B3F3E-8BD1-4026-995B-954FE4E89630}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A7FE221-44BC-4F06-90A8-48DB2249A080}
+	EndGlobalSection
+EndGlobal
