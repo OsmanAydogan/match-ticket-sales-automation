@@ -1,1 +1,1 @@
-Data Source=KHARENIUM\SQLSERVER2019;Initial Catalog=Mac_Bileti;Integrated Security=True
+Data Source= name of the database server;Initial Catalog=Mac_Bileti;Integrated Security=True
